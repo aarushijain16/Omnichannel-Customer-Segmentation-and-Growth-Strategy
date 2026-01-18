@@ -1,7 +1,7 @@
 # Omnichannel-Customer-Segmentation-and-Growth-Strategy
 
 # Overview
-This project demonstrates how retail analytics frameworks can be adapted for premium lifestyle and design-led brands like Nicobar — without compromising brand identity, storytelling, or creativity.
+This project demonstrates how retail analytics frameworks can be adapted for premium lifestyle and design-led brands like Nicobar, without compromising brand identity, storytelling, or creativity.
 
 Using Python and Power BI, I built an omnichannel customer insight framework that connects:
 
