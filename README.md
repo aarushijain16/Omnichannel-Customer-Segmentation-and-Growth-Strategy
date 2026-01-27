@@ -1,6 +1,5 @@
 # Omnichannel-Customer-Segmentation-and-Growth-Strategy
-*Project inspired by an omnichannel Indian lifestyle brand (Nicobar)
-
+*Project inspired by an omnichannel Indian lifestyle brand (Nicobar)*
 # Overview
 This project demonstrates how retail analytics frameworks can be adapted for premium lifestyle and design-led brands like Nicobar, without compromising brand identity, storytelling, or creativity.
 
